@@ -1,3 +1,6 @@
+# ignore comitting test data
+data/
+
 # macOS
 .DS_Store
 

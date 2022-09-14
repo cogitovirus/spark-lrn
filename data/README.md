@@ -1,0 +1,1 @@
+Folder for test data. Due to size it won't be commited into the repository, but all the datasets will be referenced by link in here.
