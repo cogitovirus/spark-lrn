@@ -2,9 +2,9 @@
 Learning Spark + Scala
 
 ## TODO:
-- Run Scala on a databricks ... notebook / cluster ?
-- test performance one core vs 8 core , play with "local[*]"
-- find an interesting data set
+[ ] Run Scala on a databricks ... notebook / cluster ?
+[ ] test performance one core vs 8 core , play with "local[*]"
+[ ] find an interesting data set
 
 ## Build
 ### option 1 - packaged with scala, no spark
@@ -25,6 +25,8 @@ Spark - https://phoenixnap.com/kb/install-spark-on-windows-10
 Spark + Scala 3 - https://www.47deg.com/blog/using-scala-3-with-spark/
 
 ## Junkyard
+
+Spark cluster in docker for local setup https://github.com/47deg/spark-scala3-example
 
 https://levelup.gitconnected.com/is-python-spark-really-being-10x-slower-than-scala-spark-8a76c907adc8
 
